@@ -1,5 +1,7 @@
 # Slack App
 
+To visit the site hosted in Firebase [https://slack-app-be5b8.web.app/](https://slack-app-be5b8.web.app/)
+
 This is a Project created using React.js, Redux, Styled-components, material-UI and React-Router
 
 Authentication and Hosting is done by Firebase
